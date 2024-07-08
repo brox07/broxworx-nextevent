@@ -1,3 +1,57 @@
+## TO-DO 
+ - [ ] build cron job page
+ - [ ] build cron job for importing F1 Schedule from gcal
+ - [ ] replicate for additional schedules
+ - [ ] build landing page schedule (all events)
+ - [ ] build login page
+ - [ ] build signup page
+ - [ ] build personalization page
+
+## "events"
+ - [ ] motorsport
+   - [ ] F1, F2, F3, F1 Academy
+   - [ ] IndyCar
+   - [ ] IMSA/WEC
+   - [ ] GT World Challenge
+   - [ ] NASCAR
+ - [ ] basketball
+   - [ ] NBA
+   - [ ] NCAAB
+   - [ ] NCAAW
+   - [ ] WNBA
+   - [ ] G-League
+   - [ ] Euro?
+ - [ ] american football
+   - [ ] NFL
+   - [ ] NCAAF
+   - [ ] CFL
+   - [ ] UFL
+ - [ ] soccer (european football)
+   - [ ] Premier League
+   - [ ] Champion League
+   - [ ] League 1
+   - [ ] League 2
+   - [ ] National League
+ - [ ] golf
+   - [ ] PGA
+   - [ ] NCAAG
+   - [ ] LIV
+ - [ ] baseball
+   - [ ] MLB
+   - [ ] NCAA
+   - [ ] Minor League
+ - [ ] hockey
+   - [ ] NHL
+   - [ ] NCAAH
+   - [ ] Minor League?
+ - [ ] combat
+   - [ ] UFC
+   - [ ] Boxing
+   - [ ] Wrestling
+ - [ ] xtreme
+   - [ ] x games
+   - [ ] nitrocross
+
 ## MERN-Docker - Starter for building MERN Apps using Docker
 
 ![MERN DOCKER diagram](https://github.com/sujaykundu777/mern-docker/blob/master/3-tier-diagram.png?raw=true)
