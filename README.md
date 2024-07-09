@@ -1,3 +1,87 @@
+## TO-DO 
+ - [ ] build navbar
+ - [ ] build cron job page
+    * add to admin page
+ - [ ] build cron job for importing F1 Schedule from gcal
+ - [ ] replicate for additional schedules
+ - [ ] build landing page schedule (all events)
+ - [ ] build login page
+ - [ ] build signup page
+ - [ ] build personalization page
+
+## data gathering
+ - [ ] motorsport
+   - [x] F1 (2024)
+      - [x] drivers
+      - [x] teams
+      - [x] schedule
+   - [ ] F2 (2024)
+      - [x] drivers
+      - [x] teams
+      - [ ] schedule
+   - [ ] F3 (2024)
+      - [x] drivers
+      - [ ] teams
+      - [ ] schedule
+   - [ ] F1 Academy (2024)
+   - [ ] Indycar
+      - [x] drivers
+      - [ ] teams
+      - [ ] schedule
+   - [ ] IndyNXT
+      - [x] drivers
+      - [ ] teams
+      - [ ] schedule
+   - [ ] IMSA/WEC
+   - [ ] GT World Challenge
+   - [ ] NASCAR
+      - [x] drivers
+      - [ ] teams
+      - [ ] schedule
+ - [ ] basketball
+   - [ ] NBA
+      - [ ] players
+      - [x] teams
+      - [ ] schedule
+   - [ ] NCAAB
+   - [ ] NCAAW
+   - [ ] WNBA
+   - [ ] G-League
+   - [ ] Euro?
+ - [ ] american football
+   - [ ] NFL
+      - [ ] players
+      - [x] teams
+      - [ ] schedule
+   - [ ] NCAAF
+   - [ ] CFL
+   - [ ] UFL
+ - [ ] soccer (european football)
+   - [ ] Premier League
+   - [ ] Champion League
+   - [ ] League 1
+   - [ ] League 2
+   - [ ] National League
+ - [ ] golf
+   - [ ] PGA
+   - [ ] NCAAG
+   - [ ] LIV
+ - [ ] baseball
+   - [ ] MLB
+   - [ ] NCAA
+   - [ ] Minor League
+ - [ ] hockey
+   - [ ] NHL
+   - [ ] NCAAH
+   - [ ] Minor League?
+ - [ ] combat
+   - [ ] UFC
+   - [ ] Boxing
+   - [ ] Wrestling
+ - [ ] xtreme
+   - [ ] x games
+   - [ ] nitrocross
+
 ## MERN-Docker - Starter for building MERN Apps using Docker
 
 ![MERN DOCKER diagram](https://github.com/sujaykundu777/mern-docker/blob/master/3-tier-diagram.png?raw=true)
