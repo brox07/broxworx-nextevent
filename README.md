@@ -8,7 +8,7 @@
  - [ ] build personalization page
 
 ## "events"
- - [ ] motorsport
+ - > motorsport
    - [ ] F1, F2, F3, F1 Academy
    - [ ] IndyCar
    - [ ] IMSA/WEC
