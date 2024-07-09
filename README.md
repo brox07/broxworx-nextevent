@@ -1,5 +1,7 @@
 ## TO-DO 
+ - [ ] build navbar
  - [ ] build cron job page
+    * add to admin page
  - [ ] build cron job for importing F1 Schedule from gcal
  - [ ] replicate for additional schedules
  - [ ] build landing page schedule (all events)
@@ -7,22 +9,44 @@
  - [ ] build signup page
  - [ ] build personalization page
 
-## "events"
- - > motorsport
-   - [ ] F1, F2, F3, F1 Academy
-   - [ ] IndyCar
+## data gathering
+ - [ ] motorsport
+   - [x] F1 (2024)
+      - [x] drivers
+      - [x] teams
+      - [x] schedule
+   - [ ] F2 (2024)
+      - [x] drivers
+      - [x] teams
+      - [ ] schedule
+   - [ ] F3 (2024)
+      - [x] drivers
+      - [ ] teams
+      - [ ] schedule
+   - [ ] F1 Academy (2024)
+   - [ ] Indycar
+      - [x] drivers
+      - [ ] teams
+      - [ ] schedule
+   - [ ] IndyNXT
+      - [x] drivers
+      - [ ] teams
+      - [ ] schedule
    - [ ] IMSA/WEC
    - [ ] GT World Challenge
    - [ ] NASCAR
+      - [x] drivers
+      - [ ] teams
+      - [ ] schedule
  - [ ] basketball
-   - [ ] NBA
+   - [x] NBA
    - [ ] NCAAB
    - [ ] NCAAW
    - [ ] WNBA
    - [ ] G-League
    - [ ] Euro?
  - [ ] american football
-   - [ ] NFL
+   - [x] NFL
    - [ ] NCAAF
    - [ ] CFL
    - [ ] UFL

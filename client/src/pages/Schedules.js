@@ -5,6 +5,7 @@ function Schedules() {
     return (
         <div className='schedules'>
             <p>SCHEDULES</p>
+            {/* VIEW ALL SCHEDULES */}
         </div>
     );
 }
