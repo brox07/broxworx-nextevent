@@ -39,14 +39,20 @@
       - [ ] teams
       - [ ] schedule
  - [ ] basketball
-   - [x] NBA
+   - [ ] NBA
+      - [ ] players
+      - [x] teams
+      - [ ] schedule
    - [ ] NCAAB
    - [ ] NCAAW
    - [ ] WNBA
    - [ ] G-League
    - [ ] Euro?
  - [ ] american football
-   - [x] NFL
+   - [ ] NFL
+      - [ ] players
+      - [x] teams
+      - [ ] schedule
    - [ ] NCAAF
    - [ ] CFL
    - [ ] UFL
