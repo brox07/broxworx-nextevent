@@ -6,25 +6,15 @@
 // export default Router;
 import express from 'express';
 
+import scheduleRoutes from './schedule.routes';
+import app from '..';
+
 let router = express.Router();
 
 router.get('/', (req, res) => {
     res.send('Hello World');
 })
 
-router.get('/new', (req, res, next) => {
-    let languages = [
-        {
-         language: 'Spanish'
-        },
-        {
-         language: "French"
-        },
-        {
-         langauge: "German"
-        }
-    ];
-    res.json(languages);
-});
+//app.use('/api/schedules', scheduleRoutes);
 
 export default router;

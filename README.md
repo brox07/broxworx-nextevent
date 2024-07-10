@@ -1,15 +1,21 @@
 ## TO-DO 
- - [ ] build navbar
- - [ ] build cron job page
-    * add to admin page
- - [ ] build cron job for importing F1 Schedule from gcal
+ - [x] build navbar
+ - [x] setup example cron and successfully execute
+ - [ ] build cron job for importing F1 schedule from gcal
+ - [ ] build unit tests for server-side work
  - [ ] replicate for additional schedules
- - [ ] build landing page schedule (all events)
+ - [ ] setup mongodb data import
+ - [ ] create models for retrieving data
+ - [ ] build homepage schedule component
+ - [ ] build schedule selection page
  - [ ] build login page
  - [ ] build signup page
- - [ ] build personalization page
+ - [ ] build each sport page?
+ - [ ] stylize and clean up navbar
+ - [ ] build cron job page
+   * add to admin page
 
-## data gathering
+## data gathering (google docs)
  - [ ] motorsport
    - [x] F1 (2024)
       - [x] drivers

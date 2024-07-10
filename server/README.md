@@ -21,7 +21,8 @@ Build Client Image
 Run the container
 `$ docker run -p 8080:8080 myapp-server:v1 `
 
-
+Run crons (in container)
+`$ node src/cron/<name of cron>.js `
 
 Package.json scripts
 ```

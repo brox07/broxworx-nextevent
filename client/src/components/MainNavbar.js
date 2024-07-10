@@ -81,7 +81,6 @@ function MainNavbar() {
           { /* Site Nav */ }
           <Route path="/" element={<Home/>}/>
           <Route path="/about" element={<About/>}/>
-          <Route path="/contact" element={<About/>}/>
           <Route path="/admin" element={<About/>}/>
           <Route path="/schedules" element={<Schedules/>}/>
           
